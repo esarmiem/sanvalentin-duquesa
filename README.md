@@ -8,7 +8,7 @@
    Clona este repositorio en tu máquina local usando el siguiente comando:
 
    ```bash
-   git clone <URL del repositorio>
+   git clone https://github.com/esarmiem/sanvalentin-duquesa.git
    ```
 
 2. **Abrir el Archivo HTML:**
